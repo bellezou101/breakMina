@@ -14,6 +14,7 @@
 		7936154B24BF7BF500D4F628 /* breakMina.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7936154924BF7BF500D4F628 /* breakMina.xcdatamodeld */; };
 		7936154D24BF7BFA00D4F628 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7936154C24BF7BFA00D4F628 /* Assets.xcassets */; };
 		7936155024BF7BFA00D4F628 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7936154E24BF7BFA00D4F628 /* LaunchScreen.storyboard */; };
+		7936155A24C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936155924C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7936154C24BF7BFA00D4F628 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7936154F24BF7BFA00D4F628 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7936155124BF7BFA00D4F628 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7936155924C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-07-16 at 12.06.33 PM.png"; path = "../../Screen Shot 2020-07-16 at 12.06.33 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7936154424BF7BF500D4F628 /* ViewController.swift */,
 				7936154624BF7BF500D4F628 /* Main.storyboard */,
 				7936154C24BF7BFA00D4F628 /* Assets.xcassets */,
+				7936155924C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png */,
 				7936154E24BF7BFA00D4F628 /* LaunchScreen.storyboard */,
 				7936155124BF7BFA00D4F628 /* Info.plist */,
 				7936154924BF7BF500D4F628 /* breakMina.xcdatamodeld */,
@@ -131,6 +134,7 @@
 				7936155024BF7BFA00D4F628 /* LaunchScreen.storyboard in Resources */,
 				7936154D24BF7BFA00D4F628 /* Assets.xcassets in Resources */,
 				7936154824BF7BF500D4F628 /* Main.storyboard in Resources */,
+				7936155A24C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

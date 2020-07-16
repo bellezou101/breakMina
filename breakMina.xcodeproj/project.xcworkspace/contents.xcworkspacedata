@@ -2,6 +2,39 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/bellezou/Desktop/imgOne.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgTwo.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgThree.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgFour.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgFive.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgSix.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgSeven.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgEight.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgNine.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgTen.png">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bellezou/Desktop/imgEleven.png">
+   </FileRef>
+   <FileRef
       location = "self:breakMina.xcodeproj">
    </FileRef>
 </Workspace>
