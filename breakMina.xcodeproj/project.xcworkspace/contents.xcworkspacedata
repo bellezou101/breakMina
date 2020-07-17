@@ -35,6 +35,9 @@
       location = "group:/Users/bellezou/Desktop/imgEleven.png">
    </FileRef>
    <FileRef
+      location = "group:../../selfAffirmation">
+   </FileRef>
+   <FileRef
       location = "self:breakMina.xcodeproj">
    </FileRef>
 </Workspace>

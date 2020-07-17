@@ -17,6 +17,16 @@
 		7936155A24C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7936155924C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		7936155F24C0C04D00D4F628 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7936155B24C0C04D00D4F628 /* selfAffirmation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 793614F024BE2AC600D4F628;
+			remoteInfo = selfAffirmation;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		7936153D24BF7BF500D4F628 /* breakMina.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = breakMina.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7936154024BF7BF500D4F628 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -28,6 +38,7 @@
 		7936154F24BF7BFA00D4F628 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7936155124BF7BFA00D4F628 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7936155924C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-07-16 at 12.06.33 PM.png"; path = "../../Screen Shot 2020-07-16 at 12.06.33 PM.png"; sourceTree = "<group>"; };
+		7936155B24C0C04D00D4F628 /* selfAffirmation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = selfAffirmation.xcodeproj; path = ../../selfAffirmation/selfAffirmation.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +75,7 @@
 				7936154224BF7BF500D4F628 /* SceneDelegate.swift */,
 				7936154424BF7BF500D4F628 /* ViewController.swift */,
 				7936154624BF7BF500D4F628 /* Main.storyboard */,
+				7936155B24C0C04D00D4F628 /* selfAffirmation.xcodeproj */,
 				7936154C24BF7BFA00D4F628 /* Assets.xcassets */,
 				7936155924C0B2AE00D4F628 /* Screen Shot 2020-07-16 at 12.06.33 PM.png */,
 				7936154E24BF7BFA00D4F628 /* LaunchScreen.storyboard */,
@@ -71,6 +83,14 @@
 				7936154924BF7BF500D4F628 /* breakMina.xcdatamodeld */,
 			);
 			path = breakMina;
+			sourceTree = "<group>";
+		};
+		7936155C24C0C04D00D4F628 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7936156024C0C04D00D4F628 /* selfAffirmation.app */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,12 +139,28 @@
 			mainGroup = 7936153424BF7BF500D4F628;
 			productRefGroup = 7936153E24BF7BF500D4F628 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 7936155C24C0C04D00D4F628 /* Products */;
+					ProjectRef = 7936155B24C0C04D00D4F628 /* selfAffirmation.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				7936153C24BF7BF500D4F628 /* breakMina */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		7936156024C0C04D00D4F628 /* selfAffirmation.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = selfAffirmation.app;
+			remoteRef = 7936155F24C0C04D00D4F628 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		7936153B24BF7BF500D4F628 /* Resources */ = {
